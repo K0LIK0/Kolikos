@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\gitgit\Kolikos\Basketball_Match\obj\Debug\Basketball_Matches.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\gitgit\Kolikos\Basketball_Match\obj\Debug\Basketball_Matches.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\gitgit\Kolikos\Basketball_Match\bin\Debug\Basketball_Matches.exe.config
+C:\Users\Lenovo\Desktop\gitgit\Kolikos\Basketball_Match\bin\Debug\Basketball_Matches.exe
+C:\Users\Lenovo\Desktop\gitgit\Kolikos\Basketball_Match\bin\Debug\Basketball_Matches.pdb
+C:\Users\Lenovo\Desktop\gitgit\Kolikos\Basketball_Match\obj\Debug\Basketball_Matches.exe
+C:\Users\Lenovo\Desktop\gitgit\Kolikos\Basketball_Match\obj\Debug\Basketball_Matches.pdb
